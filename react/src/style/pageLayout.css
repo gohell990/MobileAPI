@@ -1,0 +1,23 @@
+/* ul li {
+    justify-content: center;
+    flex-direction: column;
+    float: auto;
+    padding: 15px;
+    size: 50px;
+} */
+
+/* .nestedMenu {
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 0px;
+    padding: 5px 15px 0px 0px;
+    size: 50px;
+    color: dodgerblue;
+    
+    background: dodgerblue;
+} */
+
+.subLink {
+    padding-left: 25px;
+    margin-left:10px;
+}
